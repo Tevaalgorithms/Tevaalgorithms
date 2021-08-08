@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tevaganthan shortform Teva
-- 👀 I’m interested in learning techology and stoic philosophy 
-- 🌱 I’m currently learning AWS Cloud Security, distributed system design and Cloud Architectures 
+- 👀 I’m interested in learning techology, software architectures, and stoic philosophy 
+- 🌱 I’m currently learning AWS Cloud Security, and Cloud Architectures 
 - 💞️ I’m looking to collaborate on open source code development and cloud architecture 
 - 📫 How to reach me via email.
 
