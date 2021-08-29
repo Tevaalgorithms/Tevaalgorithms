@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tevaganthan shortform Teva
+- 👋 Hi, I’m Teva shortform Tevaganthan
 - 👀 I’m interested in learning techology, software architectures, and stoic philosophy 
 - 🌱 I’m currently learning AWS Cloud Security, and Cloud Architectures 
 - 💞️ I’m looking to collaborate on open source code development and cloud architecture 
