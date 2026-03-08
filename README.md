@@ -5,6 +5,7 @@
 **Software Architect · AI Engineer · Cybersecurity Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ftevaganthan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tevaganthan)
+[![Medium](https://img.shields.io/badge/Medium-%40teva15-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@teva15)
 [![GitHub followers](https://img.shields.io/github/followers/Tevaalgorithms?style=flat&label=Follow)](https://github.com/Tevaalgorithms)
 ![Location](https://img.shields.io/badge/📍-USA-lightgrey)
 
@@ -69,23 +70,12 @@ Cybersecurity           ████████████░░░░░░�
 **Architecture & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-architecture-blue?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat&logo=amazon-eks&logoColor=white)
 
 **AI & ML**
 ![Anthropic](https://img.shields.io/badge/Claude_API-D4562A?style=flat)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Teva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tevaalgorithms&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tevaalgorithms&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
@@ -96,6 +86,8 @@ I'm open to collaborating on:
 - Software architecture discussions
 - Cloud security & AWS projects
 - Competitive programming and algorithm challenges
+
+📝 I also write on [Medium](https://medium.com/@teva15) — follow along for articles on software architecture, AI engineering, and more.
 
 > *"The impediment to action advances action. What stands in the way becomes the way."* — Marcus Aurelius
 
