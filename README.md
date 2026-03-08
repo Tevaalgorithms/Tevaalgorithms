@@ -52,7 +52,7 @@ Cybersecurity           ████████████░░░░░░�
 |------|-------------|-------|
 | [claude-code-learning](https://github.com/Tevaalgorithms/claude-code-learning) | Notes, projects & experiments from the Claude Code course | Python, Claude API |
 | [amazon-bedrock-learning](https://github.com/Tevaalgorithms/amazon-bedrock-learning) | Amazon Bedrock & Agent Core course projects | Python, AWS |
-| [EShopMicroservices](https://github.com/Tevaalgorithms/EShopMicroservices) | Microservices architecture reference implementation | .NET, Docker |
+| [orderstream](https://github.com/Tevaalgorithms/orderstream) | E-commerce microservices with SQS, Kinesis, API Gateway — teaches Saga, Outbox & Idempotency patterns | Python, AWS, PostgreSQL |
 | [AWS_Security](https://github.com/Tevaalgorithms/AWS_Security) | Cloud security architecture patterns & notes | AWS |
 | [Algorithms](https://github.com/Tevaalgorithms/Algorithms) | Data structures & algorithm implementations | Java |
 | [leetcode](https://github.com/Tevaalgorithms/leetcode) | LeetCode solutions with explanations | Java |
