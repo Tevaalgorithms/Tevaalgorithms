@@ -2,7 +2,7 @@
 
 # Hi, I'm Tevaganthan (Teva) Veluppillai 👋
 
-**Software Architect · AI Engineer · Cybersecurity Enthusiast**
+**Software Architect · Software Engineer · Cybersecurity Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ftevaganthan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tevaganthan)
 [![Medium](https://img.shields.io/badge/Medium-%40teva15-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@teva15)
@@ -18,7 +18,7 @@
 I'm a software professional with **18+ years of experience** in software architecture, design patterns, and full-stack development. I'm passionate about building scalable systems and continuously exploring the intersection of AI, security, and engineering excellence.
 
 - 🏗️ **Software Architecture** — Microservices, distributed systems, design patterns
-- 🤖 **AI Engineering** — LLM applications, Agentic AI, Claude API, Amazon Bedrock
+- 🤖 **AI Engineering** — Building multi-agent systems at work, exploring LLMs, Claude API, Amazon Bedrock. Working toward GenAI Professional Certification.
 - 🔐 **Cybersecurity** — Cloud security, AWS security architecture, secure design
 - 🧮 **Algorithms** — Data structures, dynamic programming, competitive problem solving
 - 💡 **Stoic philosophy** guides how I approach complexity and continuous learning
@@ -32,6 +32,16 @@ I'm a software professional with **18+ years of experience** in software archite
 | Claude Code | Anthropic | 🟢 In Progress |
 | Amazon Bedrock | AWS | 🟢 In Progress |
 | Agent Core | AWS | 🟢 In Progress |
+| GenAI Professional | Certification | 🔵 Preparing |
+
+---
+
+## Certifications
+
+| Certification | Issuer | Verify |
+|---|---|---|
+| 5-Day AI Agents Intensive | Google / Kaggle | [View](https://www.kaggle.com/certification/badges/tevaveluppillai/105) |
+| Claude Code in Action | Anthropic | [View](https://verify.skilljar.com/c/f3n2yxj39y9s) |
 
 ---
 
