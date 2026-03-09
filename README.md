@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ftevaganthan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tevaganthan)
 [![Medium](https://img.shields.io/badge/Medium-%40teva15-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@teva15)
-[![GitHub followers](https://img.shields.io/github/followers/Tevaalgorithms?style=flat&label=Follow)](https://github.com/Tevaalgorithms)
+
 ![Location](https://img.shields.io/badge/📍-USA-lightgrey)
 
 </div>
