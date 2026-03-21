@@ -31,7 +31,7 @@ I'm a software professional with **18+ years of experience** in software archite
 | Claude Code | Anthropic | 🟢 In Progress |
 | Amazon Bedrock | AWS | 🟢 In Progress |
 | Agent Core | AWS | 🟢 In Progress |
-| GenAI Professional | Certification | 🔵 Preparing |
+| GenAI Professional (AIP-C01) | AWS Certification | 🟡 Exam Mar 31 |
 
 ---
 
@@ -59,6 +59,7 @@ Cybersecurity           ████████████░░░░░░�
 
 | Repo | Description | Stack |
 |------|-------------|-------|
+| [aws-aip-c01-exam-prep](https://github.com/Tevaalgorithms/aws-aip-c01-exam-prep) | AIP-C01 exam prep — notes, Q&A & hands-on Bedrock projects across all 5 domains | Python, Amazon Bedrock |
 | [claude-code-learning](https://github.com/Tevaalgorithms/claude-code-learning) | Notes, projects & experiments from the Claude Code course | Python, Claude API |
 | [amazon-bedrock-learning](https://github.com/Tevaalgorithms/amazon-bedrock-learning) | Amazon Bedrock & Agent Core course projects | Python, AWS |
 | [orderstream](https://github.com/Tevaalgorithms/orderstream) | E-commerce microservices with SQS, Kinesis, API Gateway — teaches Saga, Outbox & Idempotency patterns | Python, AWS, PostgreSQL |
