@@ -31,7 +31,7 @@ I'm a software professional with **18+ years of experience** in software archite
 | Claude Code | Anthropic | 🟢 In Progress |
 | Amazon Bedrock | AWS | 🟢 In Progress |
 | Agent Core | AWS | 🟢 In Progress |
-| GenAI Professional (AIP-C01) | AWS Certification | 🟡 Exam Mar 31 |
+| GenAI Professional (AIP-C01) | AWS Certification | 🟢 In Progress |
 
 ---
 
