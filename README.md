@@ -59,6 +59,7 @@ Cybersecurity           ████████████░░░░░░�
 
 | Repo | Description | Stack |
 |------|-------------|-------|
+| [rag-document-qa](https://github.com/Tevaalgorithms/rag-document-qa) | RAG Document Q&A — upload PDFs, ask questions, get cited answers via Amazon Bedrock (Titan Embed + Claude 3.5 Haiku), ChromaDB, and FastAPI | Python, AWS Bedrock, FastAPI |
 | [aws-aip-c01-exam-prep](https://github.com/Tevaalgorithms/aws-aip-c01-exam-prep) | AIP-C01 exam prep — notes, Q&A & hands-on Bedrock projects across all 5 domains | Python, Amazon Bedrock |
 | [claude-code-learning](https://github.com/Tevaalgorithms/claude-code-learning) | Notes, projects & experiments from the Claude Code course | Python, Claude API |
 | [amazon-bedrock-learning](https://github.com/Tevaalgorithms/amazon-bedrock-learning) | Amazon Bedrock & Agent Core course projects | Python, AWS |
