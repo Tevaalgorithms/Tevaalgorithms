@@ -63,6 +63,7 @@ Cybersecurity           ████████████░░░░░░�
 | [aws-aip-c01-exam-prep](https://github.com/Tevaalgorithms/aws-aip-c01-exam-prep) | AIP-C01 exam prep — notes, Q&A & hands-on Bedrock projects across all 5 domains | Python, Amazon Bedrock |
 | [claude-code-learning](https://github.com/Tevaalgorithms/claude-code-learning) | Notes, projects & experiments from the Claude Code course | Python, Claude API |
 | [amazon-bedrock-learning](https://github.com/Tevaalgorithms/amazon-bedrock-learning) | Amazon Bedrock & Agent Core course projects | Python, AWS |
+| [opensearch-learning](https://github.com/Tevaalgorithms/opensearch-learning) | 10-module expert curriculum on OpenSearch — lexical search (BM25), semantic vector search (k-NN), hybrid search with score normalization, RAG integration with Bedrock, and production deployment | Python, OpenSearch, AWS Bedrock |
 | [orderstream](https://github.com/Tevaalgorithms/orderstream) | E-commerce microservices with SQS, Kinesis, API Gateway — teaches Saga, Outbox & Idempotency patterns | Python, AWS, PostgreSQL |
 | [AWS_Security](https://github.com/Tevaalgorithms/AWS_Security) | Cloud security architecture patterns & notes | AWS |
 | [Algorithms](https://github.com/Tevaalgorithms/Algorithms) | Data structures & algorithm implementations | Java |
