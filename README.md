@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a software professional with **18+ years of experience** in software architecture, design patterns, and full-stack development. I'm passionate about building scalable systems and continuously exploring the intersection of AI, security, and engineering excellence.
+I'm a software professional with **19+ years of experience** in software architecture, design patterns, and full-stack development. I'm passionate about building scalable systems and continuously exploring the intersection of AI, security, and engineering excellence.
 
 - 🏗️ **Software Architecture** — Microservices, distributed systems, design patterns
 - 🤖 **AI Engineering** — Building multi-agent systems at work, exploring LLMs, Claude API, Amazon Bedrock. Working toward GenAI Professional Certification.
@@ -30,8 +30,7 @@ I'm a software professional with **18+ years of experience** in software archite
 |--------|----------|--------|
 | Claude Code | Anthropic | 🟢 In Progress |
 | Amazon Bedrock | AWS | 🟢 In Progress |
-| Agent Core | AWS | 🟢 In Progress |
-| GenAI Professional (AIP-C01) | AWS Certification | 🟢 In Progress |
+| Amazon SageMaker AI  | AWS | 🟢 In Progress |
 
 ---
 
@@ -41,6 +40,7 @@ I'm a software professional with **18+ years of experience** in software archite
 |---|---|---|
 | 5-Day AI Agents Intensive | Google / Kaggle | [View](https://www.kaggle.com/certification/badges/tevaveluppillai/105) |
 | Claude Code in Action | Anthropic | [View](https://verify.skilljar.com/c/f3n2yxj39y9s) |
+| GenAI Professional (AIP-C01) | AWS | [View](https://www.credly.com/badges/4d4d1a92-1f8d-42ec-9ff2-350b4a072d40/public_url)
 
 ---
 
