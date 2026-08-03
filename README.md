@@ -49,7 +49,7 @@ I'm a software professional with **19+ years of experience** in software archite
 ```
 Software Architecture   ████████████████████  Expert (18+ yrs)
 Algorithms & DSA        ████████████████░░░░  Advanced
-AI Engineering          ████████████░░░░░░░░  Growing
+ML/AI Engineering       ████████████░░░░░░░░  Growing
 Cybersecurity           ████████████░░░░░░░░  Growing
 ```
 
