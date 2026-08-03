@@ -17,7 +17,7 @@
 I'm a software professional with **19+ years of experience** in software architecture, design patterns, and full-stack development. I'm passionate about building scalable systems and continuously exploring the intersection of AI, security, and engineering excellence.
 
 - 🏗️ **Software Architecture** — Microservices, distributed systems, design patterns
-- 🤖 **AI Engineering** — Building multi-agent systems at work, Exploring LLMs, Claude API, Amazon Bedrock, GNN, and RAG.
+- 🤖 **ML and AI Engineering** — Neural Networks, Building multi-agent systems, Exploring LLMs, Context Enginnering, GNN, and RAG.
 - 🔐 **Cybersecurity** — Cloud security, AWS security architecture, secure design.
 - 🧮 **Algorithms** — Data structures, dynamic programming, competitive problem solving
 - 💡 **Stoic philosophy** guides how I approach complexity and continuous learning
