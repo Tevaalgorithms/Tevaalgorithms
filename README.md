@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a software professional with **19+ years of experience** in software architecture, design patterns, and full-stack development. I'm passionate about building scalable systems and continuously exploring the intersection of AI, security, and engineering excellence.
+I'm a software professional with 19+ years of experience in software architecture, design patterns, and full-stack development. I'm passionate about building scalable systems and continuously exploring the intersection of AI, security, and engineering excellence.
 
 - 🏗️ **Software Architecture** — Microservices, distributed systems, design patterns
 - 🤖 **ML and AI Engineering** — Neural Networks, Building multi-agent systems, Exploring LLMs, Context Enginnering, GNN, and RAG.
